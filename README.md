@@ -1,7 +1,7 @@
 # deep-traffic
 MIT Challenge - Use Deep Reinforcement Learning to solve traffic
 
-## Average Speed : 69.69 km/h
+## Average Speed : 70.74 km/h
 ![GIF](https://github.com/Jeremy26/deep-traffic/blob/master/ezgif-5-7def545e65f1.gif)
 
 ## Parameters
